@@ -13,6 +13,8 @@ Un estudiante finlandés llamado Linus Torvalds, constatando que no era posible 
 
 Torvalds decidió aprovechar el sistema GNU y completarlo con su propio núcleo, que bautizó como Linux (Linux Is Not UniX). El sistema conjunto (herramientas GNU y núcleo Linux) forma lo que llamamos GNU/Linux.
 
+![SI QUIERES SABER MAS SOBRE LINUX.....](https://youtu.be/hpWQNfei6kc)
+
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Gnulinux.svg/354px-Gnulinux.svg.png)
 
 ## Historia de Linux
