@@ -32,5 +32,5 @@ Estos son los programas informáticos que hacen posible la realización de tarea
 
 
 
-[Wiki](https://arfp24.github.io/ProyectoIntegrador/wiki/Software)
+
 
