@@ -1,5 +1,5 @@
 
-![](https://images.cooltext.com/5136275.png)                
+![](https://images.cooltext.com/5136287.png)                
 
 ## ¿Qué es Linux?
 
