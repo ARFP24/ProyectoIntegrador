@@ -25,3 +25,5 @@ Estos son los programas informáticos que hacen posible la realización de tarea
 
 [IOS](https://github.com/ARFP24/ProyectoIntegrador/blob/master/IOS.md)
 
+[Windows](https://github.com/ARFP24/ProyectoIntegrador/blob/master/Windows.md)
+
