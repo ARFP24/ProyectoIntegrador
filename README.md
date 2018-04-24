@@ -19,12 +19,3 @@ Estos son los programas informáticos que hacen posible la realización de tarea
 
 [Mas sobre ....Software](https://youtu.be/pegiw2iVUY8)
 
-\begin{table}[]
-\centering
-\caption{My caption}
-\label{my-label}
-\begin{tabular}{ll}
-![](https://www.apple.com/ac/structured-data/images/knowledge_graph_logo.png?201709101434) & ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXmoCvClUchlkGoBbzfCGwv33LVwYJSGlqDifhck52NdNSVzA7AA) \\
-![](https://image.freepik.com/iconos-gratis/logo-android_318-54234.jpg)                    & ![](https://image.freepik.com/iconos-gratis/logo-linux_318-42235.jpg)                                          
-\end{tabular}
-\end{table}
