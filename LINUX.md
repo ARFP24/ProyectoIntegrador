@@ -11,8 +11,6 @@ Andrew Tanenbaum desarrolló un sistema operativo parecido a Unix (llamado Minix
 
 Un estudiante finlandés llamado Linus Torvalds, constatando que no era posible extender Minix, decidió escribir su propio sistema operativo compatible con Unix.
 
-En aquellos momentos el proyecto GNU (GNU's Not Unix), que Richard Stallman había iniciado hacía ya casi diez años, comprendía un sistema básico casi completo. La excepción más importante era el kernel o núcleo, que controla el hardware.
-
 Torvalds decidió aprovechar el sistema GNU y completarlo con su propio núcleo, que bautizó como Linux (Linux Is Not UniX). El sistema conjunto (herramientas GNU y núcleo Linux) forma lo que llamamos GNU/Linux.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Gnulinux.svg/354px-Gnulinux.svg.png)
