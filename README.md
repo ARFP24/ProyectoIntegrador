@@ -19,11 +19,11 @@ Estos son los programas informáticos que hacen posible la realización de tarea
 
 [Mas sobre ....Software](https://youtu.be/pegiw2iVUY8)
 
-[Android](https://arfp24.github.io/ProyectoIntegrador/Android.md)
+[Android](https://arfp24.github.io/ProyectoIntegrador/Android)
 
-[LINUX](https://arfp24.github.io/ProyectoIntegrador/LINUX.md)
+[LINUX](https://arfp24.github.io/ProyectoIntegrador/LINUX)
 
-[IOS](https://arfp24.github.io/ProyectoIntegrador/IOS.md)
+[IOS](https://arfp24.github.io/ProyectoIntegrador/IOS)
 
-[Windows](https://arfp24.github.io/ProyectoIntegrador/Windows.md)
+[Windows](https://arfp24.github.io/ProyectoIntegrador/Windows)
 
