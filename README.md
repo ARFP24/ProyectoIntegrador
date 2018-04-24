@@ -19,3 +19,7 @@ Estos son los programas informáticos que hacen posible la realización de tarea
 
 [Mas sobre ....Software](https://youtu.be/pegiw2iVUY8)
 
+[Android](https://github.com/ARFP24/ProyectoIntegrador/blob/master/Android.md)
+
+[Linux]
+
